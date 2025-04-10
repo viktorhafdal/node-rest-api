@@ -1,0 +1,29 @@
+{
+  "name": "node-rest-api",
+  "version": "1.0.0",
+  "description": "Node JS Tutorial REST Api (School project)",
+  "keywords": [
+    "node",
+    "restful",
+    "rest",
+    "api"
+  ],
+  "homepage": "https://github.com/viktorhafdal/node-rest-api#readme",
+  "bugs": {
+    "url": "https://github.com/viktorhafdal/node-rest-api/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viktorhafdal/node-rest-api.git"
+  },
+  "license": "ISC",
+  "author": "Viktor G. K. Erlingsson",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
